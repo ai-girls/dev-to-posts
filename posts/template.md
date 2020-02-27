@@ -1,8 +1,8 @@
 # Insira seu titulo aqui!
 
-insira, suas, palavras, chaves, aqui
+insira as tags ou palavras que descrevem o seu artigo aqui!
 
-> Faça um resumo do seu post aqui. Seja objetiva e concisa! 
+> Faça um resumo ou a apresentação do seu post aqui. Seja objetiva e concisa! Tente chamar a atenção das leitoras!
 
 Agora é a hora de por o texto aqui \o/ Como utilizamos o Markdown seria legal se você utiliza-se algumas ferramentas que ele nós fornece, como por exemplo:
 
@@ -63,6 +63,7 @@ mais de uma linha!
 Se você tiver mais ideias do que colocar nesse template, para ajudar mulheres que estejam iniciando na escrita ou que ainda não conheçam o Markdown. Faça um Pull Request com as atualizações, vamos adorar :heart: e agora a gente se despede :( 
 
 Até uma próxima,
+
 AI Girl
 
 Escritora: [Insira seu nome aqui!! (esse é um exemplo)](https://www.linkedin.com/company/ai-girls/)
