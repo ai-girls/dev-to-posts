@@ -1,4 +1,7 @@
+<img src="image.png" width=550px>
+
 # dev-to-posts
+
 Repositório com as postagens que estão no dev.to/aigirls
 
 Se você tem vontade de escrever algum tutórial ou artigos em geral na área de Inteligência Artificial, mas não sabia onde colocar. Agora nós temos um local para isso! Se você quiser fazer parte desse espaço, sinta-se bem vinda :heard: 
