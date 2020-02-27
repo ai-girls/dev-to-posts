@@ -20,7 +20,7 @@ Para saber mais como é esse template, acesse o [arquivo](posts/template.md).
 ## Como submeter um post para nós?
 Para submeter um post você precisa mandar um email para a comunidade, aigirlsbrasil@gmail.com, com o título "Solicitação de acesso para o Blog", e mandar seu usuário/email cadastrado no github e a sua idéia do post.
 
-Iremos retornar o seu email dizendo se aprovamos a sua solicitação, após isso você irá criar um documento dentro da pasta Blog com o seguinte formato:
+Iremos retornar o seu email dizendo se aprovamos a sua solicitação, após isso você irá criar um documento dentro da pasta [Posts](posts) com o seguinte formato:
 
 Nome_do_Artigo.md
 
