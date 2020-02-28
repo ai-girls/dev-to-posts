@@ -1,5 +1,6 @@
 # Insira seu titulo aqui!
 
+
 insira as tags ou palavras que descrevem o seu artigo aqui!
 
 > Faça um resumo ou a apresentação do seu post aqui. Seja objetiva e concisa! Tente chamar a atenção das leitoras!
@@ -35,6 +36,8 @@ vamos ver como que fica?
 
 TARÁN!!!
 
+> Agora que você sabe inserir images, seria legal colocar uma imagem para ser a capa da sua postagem. Coloque ela apos o título :) 
+
 # E dar para por vídeos também?
 
 Ahh!! Dar sim!!
@@ -60,7 +63,7 @@ mais de uma linha!
 
 # É isso!
 
-Se você tiver mais ideias do que colocar nesse template, para ajudar mulheres que estejam iniciando na escrita ou que ainda não conheçam o Markdown. Faça um Pull Request com as atualizações, vamos adorar :heart: e agora a gente se despede :( 
+Se você tiver mais ideias do que colocar nesse template, para ajudar mulheres que estejam iniciando na escrita ou que ainda não conheçam o Markdown. Faça um Pull Request com as atualizações, vamos adorar :heart: e agora a gente se despede :(
 
 Até uma próxima,
 
