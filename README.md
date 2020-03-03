@@ -22,7 +22,7 @@ Para saber mais como é esse template, acesse o [arquivo](posts/template.md).
 
 ## Como submeter um post para nós?
 
-Você precisará dar Fork (se você não sabe como fazer isso, veja o [Tutorial de Fork](tutorial/fork.md)) nesse projeto e inserir dentro da pasta `posts/` um arquivo com o titulo do seu artigo. Por exemplo:
+Você precisará dar Fork (se você não sabe como fazer isso, veja o [Tutorial de Fork](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)) nesse projeto e inserir dentro da pasta `posts/` um arquivo com o titulo do seu artigo. Por exemplo:
 
 `meu-titulo.md`
 
