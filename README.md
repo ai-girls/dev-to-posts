@@ -18,7 +18,7 @@ No nosso blog compartilhamos assuntos que envolvem inteligência artificial e ci
 
 Para te ajudar na hora da escrita, nós temos um template. Ele também nos ajuda a manter um padrão nas postagens, como por exemplo, ter sempre o nome da autora no final junto com as nossas redes sociais.
 
-Para saber mais como é esse template, acesse o [arquivo](posts/template.md).
+Para saber mais como é esse template, acesse o [arquivo](posts/template.md), e tem um editor online que te ajuda com os markdowns, o [StackEdit](https://stackedit.io/app#).
 
 ## Como submeter um post para nós?
 
