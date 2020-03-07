@@ -1,6 +1,7 @@
   <center>
-    	<h1> # IA: Do início abstruso à explosão mundial </h1>
+    	<h1>  IA: Do início abstruso à explosão mundial </h1>
     	 </center>
+    	 <h2> A evolução da inteligência artificial e sua definição</h2>
 
     	<p>
     		 A Inteligência Artificial (IA) representa a força primordial do futuro. É possível afirmar com absoluta certeza que a cognificação é inevitável uma vez que ela sempre esteve entre nós desde os anos 30.  Surgiram de fato pouco depois que os primeiros computadores começaram a ser desenvolvidos. Contudo, oficialmente, a IA nasceu em 1956 com uma conferência de verão em Dartmouth College, NH, USA. Na concepção dessa conferência escrita por John McCarthy (Dartmouth), Marvin Minkky (Harvard), Nathaniel Rochester (IBM) e Claude Shannon (Bell Laboratories) e submetida à fundação Rockfeller, apresenta a intenção dos autores de realizar “um estudo durante dois meses, por dez homens, sobre o tópico inteligência artificial”. No entanto, antes mesmo disso, a partir da necessidade urgente de cálculos rápidos e precisos para confecção, por exemplo, de tabelas balísticas para serem utilizadas na Segunda Grande Guerra (1939- 1945), Alan Turing já idealizava, na primeira linha de seu artigo Computing Machinery and Intelligence, a possibilidade de construir uma máquina capaz de solucionar uma classe de problemas que requerem inteligência para serem solucionados por seres humanos.
@@ -34,10 +35,8 @@
     		Siga a comunidade nas redes sociais!!
     	</p>
     	<p>
-    		[LinkedIn] <br/> (https://www.linkedin.com/company/ai-girls/)<br/>
-            [Facebook]<br/>(https://www.facebook.com/aigirlsbr/)<br/>
-            [Instagram]<br/>(https://www.instagram.com/aigirlsbrasil/)<br/>
+    		[LinkedIn] <br> (https://www.linkedin.com/company/ai-girls/)<br>
+            [Facebook]<br>(https://www.facebook.com/aigirlsbr/)<br>
+            [Instagram]<br>(https://www.instagram.com/aigirlsbrasil/)<br>
 
     	</p>
-
- 
