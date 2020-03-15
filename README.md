@@ -22,11 +22,13 @@ Para saber mais como é esse template, acesse o [arquivo](posts/template.md), e 
 
 ## Como submeter um post para nós?
 
-Você precisará dar Fork (se você não sabe como fazer isso, veja o [Tutorial de Fork](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Fazendo-um-Fork-do-reposit%C3%B3rio)) nesse projeto e inserir dentro da pasta `posts/` um arquivo com o titulo do seu artigo. Por exemplo:
+Você precisará dar Fork *(o que é um fork? veja esse [link]((https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-forks)* nesse projeto e inserir dentro da pasta `posts/` um arquivo com o titulo do seu artigo. Por exemplo:
 
 `meu-titulo.md`
 
-E depois abrir um Pull Request (se você não sabe como fazer isso, veja o [Tutorial de Pull Request](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)), que será análisado. Após um review do conteúdo, ele será aprovado e mergeado nesse repositório e o conteúdo será postado no nosso blog.
+E depois abrir um Pull Request *(o que é um Pull Request? Veja esse [link](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests))* que será análisado. Após um review do conteúdo, ele será aprovado e mergeado nesse repositório e o conteúdo será postado no nosso blog.
+
+> Caso você não saiba fazer um fork ou um pull request, der uma olhada nesse [link](https://guides.github.com/activities/forking/) ou nesse [outro link](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
 
 > Não esqueça de olhar os posts antigos no [blog](dev.to/aigirlsbr) e no repositório, para que não tenhamos artigos repetidos!! :smile:
 
