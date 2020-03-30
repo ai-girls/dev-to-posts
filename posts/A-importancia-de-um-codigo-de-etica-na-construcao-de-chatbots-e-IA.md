@@ -6,16 +6,20 @@
 As restrições morais a que estamos sujeitos em nossas relações com sistemas contemporâneos de IA são todas baseadas em nossas responsabilidades para com outros seres”
  (Nick Bostrom - “The Ethics of Artificial Intelligence”)
 
+<img src="https://github.com/lauraDamacenoAlmeida/dev-to-posts/blob/master/posts/Captura%20de%20Tela%202020-03-30%20a%CC%80s%2015.58.51.png?raw=true">
 
 Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmeros erros, preconceitos e uso indevido da tecnologia, como por exemplo o reconhecimento facial utilizado pelas autoridades de Nova York que já penalizou inúmeras pessoas indevidamente, onde ela rotula as pessoas como criminosas ou não.
+
 Dois pesquisadores da Universidade de Stanford treinaram um algoritmo de IA para adivinhar as orientações sexuais das pessoas com base em fotografias. Eles descobriram que era mais preciso do que os humanos que tentaram a tarefa. Os cientistas dizem que seu objetivo era provar que era possível criar tal algoritmo.
 Se os consumidores acessarem alguma vez, alguns podem visar pessoas em suas comunidades e atormentá-las com insultos homofóbicos, nunca considerando a validade dos dados usados para criar a tecnologia.
 Ou, se os policiais usassem algo semelhante para procurar criminosos, os algoritmos tendenciosos poderiam tornar as pessoas de certos grupos étnicos cada vez mais vulneráveis a crimes que eles não cometeram.
 Os esforços para se lidar com estes desafios crescentes concentram-se frequentemente na importância do binômio “Ética+ IA”.
 
+
 >Então como nós desenvolvedoras e entusiastas poderíamos construir inteligências que atingem seus objetivos e impactam a sociedade de uma maneira saudável?
 
 ## Como as máquinas aprendem?
+
 Existem 3 tipos de aprendizado de máquina Supervisionado, não supervisionado e por reforço. Neste blog como estamos falando mais sobre chatbots vamos falar sobre o supervisionado e não supervisionado.
 
 Supervisionado: Nós desenvolvedores temos controle sobre o que o bot diz, criando respostas em vez de permitir que os usuários o ensinem, ou seja nós temos um poder maior sobre o que nosso bot vai aprender.
@@ -25,20 +29,24 @@ Supervisionado: Nós desenvolvedores temos controle sobre o que o bot diz, crian
 •	Desvantagens: É mais demorado e criar um bot convincente leva muito tempo.
 
 Aprendizado não supervisionado: O bot é educado por seus usuários e não pelo desenvolvedor.
+
 •	Vantagens: Os usuários fazem o trabalho de treinar e ensinar o bot e você não precisa se preocupar em gastar tempo atualizando-o.
-•	
-Desvantagens: O seu bot vai desenvolver uma personalidade inconsistente e você pode não ter conhecimento do que está sendo ensinado. Na pior das hipóteses, ele se transforma em um software desagradável, racista, sexista e homofóbico.
+
+•	Desvantagens: O seu bot vai desenvolver uma personalidade inconsistente e você pode não ter conhecimento do que está sendo ensinado. Na pior das hipóteses, ele se transforma em um software desagradável, racista, sexista e homofóbico.
 
 
 Se você quiser saber mais a fundo sobre esses tipos de aprendizados, [clique aqui.]( https://dev.to/aigirlsbr/afinal-o-que-e-machine-learning-ih5)
 
 ## Tay e o aprendizado não supervisionado
+<img src="https://github.com/lauraDamacenoAlmeida/dev-to-posts/blob/master/posts/Captura%20de%20Tela%202020-03-30%20a%CC%80s%2015.58.36.png?raw=true">
+
 A Tay foi um chatbot criado pela Microsoft em março de 2016, onde ela interagia e aprendia com os tweets dos usuários na rede social. E sem o tratamento correto na base de aprendizado, ela acabou em menos de 24 horas se tornando homofóbica, racista e tudo mais.
 E isso fez com que muitos desenvolvedores e empresas questionassem o aprendizado 100% não supervisionado, e como alternativa o aprendizado semi-supervisionado, onde teríamos um tratamento prévio dos dados que serão aprendidos pelo bot, por exemplo no caso da Tay, identificar palavrões, palavras homofóbicas, racistas e retirassem elas da base de conhecimento.
 
 
-Mas como garantir a ética nos chatbots e inteligências artificiais?
-Eu fiz uma pesquisa sobre os principais códigos de ética que as grandes empresas de inteligência artificial fizeram, entre elas Google, Microsoft e IBM. E elenquei alguns princípios que elas têm em comum:
+## Mas como garantir a ética nos chatbots e inteligências artificiais?
+<img src ="https://media.giphy.com/media/NoCbUpxL1qzCw/giphy.gif">
+Eu fiz uma pesquisa sobre os principais códigos de ética que as grandes empresas de inteligência artificial fizeram, entre elas [Google](https://ai.google/principles/), [Microsoft](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Bot_Guidelines_Nov_2018.pdf) e [IBM](https://www.ibm.com/blogs/watson/2017/10/the-code-of-ethics-for-ai-and-chatbots-that-every-brand-should-follow/). E elenquei alguns princípios que elas têm em comum:
 •	Prevenção
 •	Transparência
 •	Confiabilidade
@@ -83,12 +91,14 @@ Até uma próxima,
 
 AI Girl
 
-Escritora: [Laura Damaceno de Almeida] (https://www.linkedin.com/in/laura-damaceno/)
+Escritora: [Laura Damaceno de Almeida](https://www.linkedin.com/in/laura-damaceno/)
 
 Siga a comunidade nas redes sociais!!
 
 [LinkedIn](https://www.linkedin.com/company/ai-girls/)
+
 [Facebook](https://www.facebook.com/aigirlsbr/)
+
 [Instagram](https://www.instagram.com/aigirlsbrasil/)
 
 
