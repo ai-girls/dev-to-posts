@@ -1,0 +1,102 @@
+# A importância de um código de ética na construção de chatbots e IA
+
+#chatbot, #ArtificialIntelligence, #ethic 
+
+>“Podemos alterar, copiar, encerrar, apagar ou utilizar programas de computador tanto quanto nos agradar [...] 
+As restrições morais a que estamos sujeitos em nossas relações com sistemas contemporâneos de IA são todas baseadas em nossas responsabilidades para com outros seres”
+ (Nick Bostrom - “The Ethics of Artificial Intelligence”)
+
+
+Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmeros erros, preconceitos e uso indevido da tecnologia, como por exemplo o reconhecimento facial utilizado pelas autoridades de Nova York que já penalizou inúmeras pessoas indevidamente, onde ela rotula as pessoas como criminosas ou não.
+Dois pesquisadores da Universidade de Stanford treinaram um algoritmo de IA para adivinhar as orientações sexuais das pessoas com base em fotografias. Eles descobriram que era mais preciso do que os humanos que tentaram a tarefa. Os cientistas dizem que seu objetivo era provar que era possível criar tal algoritmo.
+Se os consumidores acessarem alguma vez, alguns podem visar pessoas em suas comunidades e atormentá-las com insultos homofóbicos, nunca considerando a validade dos dados usados para criar a tecnologia.
+Ou, se os policiais usassem algo semelhante para procurar criminosos, os algoritmos tendenciosos poderiam tornar as pessoas de certos grupos étnicos cada vez mais vulneráveis a crimes que eles não cometeram.
+Os esforços para se lidar com estes desafios crescentes concentram-se frequentemente na importância do binômio “Ética+ IA”.
+
+>Então como nós desenvolvedoras e entusiastas poderíamos construir inteligências que atingem seus objetivos e impactam a sociedade de uma maneira saudável?
+
+## Como as máquinas aprendem?
+Existem 3 tipos de aprendizado de máquina Supervisionado, não supervisionado e por reforço. Neste blog como estamos falando mais sobre chatbots vamos falar sobre o supervisionado e não supervisionado.
+
+Supervisionado: Nós desenvolvedores temos controle sobre o que o bot diz, criando respostas em vez de permitir que os usuários o ensinem, ou seja nós temos um poder maior sobre o que nosso bot vai aprender.
+
+•	Vantagens: Você sabe exatamente como ele vai responder e o bot não pode ser corrompido, a menos que você treine ele com dados corrompidos.
+
+•	Desvantagens: É mais demorado e criar um bot convincente leva muito tempo.
+
+Aprendizado não supervisionado: O bot é educado por seus usuários e não pelo desenvolvedor.
+•	Vantagens: Os usuários fazem o trabalho de treinar e ensinar o bot e você não precisa se preocupar em gastar tempo atualizando-o.
+•	
+Desvantagens: O seu bot vai desenvolver uma personalidade inconsistente e você pode não ter conhecimento do que está sendo ensinado. Na pior das hipóteses, ele se transforma em um software desagradável, racista, sexista e homofóbico.
+
+
+Se você quiser saber mais a fundo sobre esses tipos de aprendizados, [clique aqui.]( https://dev.to/aigirlsbr/afinal-o-que-e-machine-learning-ih5)
+
+## Tay e o aprendizado não supervisionado
+A Tay foi um chatbot criado pela Microsoft em março de 2016, onde ela interagia e aprendia com os tweets dos usuários na rede social. E sem o tratamento correto na base de aprendizado, ela acabou em menos de 24 horas se tornando homofóbica, racista e tudo mais.
+E isso fez com que muitos desenvolvedores e empresas questionassem o aprendizado 100% não supervisionado, e como alternativa o aprendizado semi-supervisionado, onde teríamos um tratamento prévio dos dados que serão aprendidos pelo bot, por exemplo no caso da Tay, identificar palavrões, palavras homofóbicas, racistas e retirassem elas da base de conhecimento.
+
+
+Mas como garantir a ética nos chatbots e inteligências artificiais?
+Eu fiz uma pesquisa sobre os principais códigos de ética que as grandes empresas de inteligência artificial fizeram, entre elas Google, Microsoft e IBM. E elenquei alguns princípios que elas têm em comum:
+•	Prevenção
+•	Transparência
+•	Confiabilidade
+•	Privacidade
+•	Igualdade
+
+
+### Prevenção
+Muitas empresas não pensam em prevenção de abusos por parte dos usuários para o chatbot, por exemplo: reconhecer palavrões, ameaças de morte ou até racismo.
+Depois do acontecimento com a Tay, a Microsoft logo tirou-a do ar e criou um novo chatbot a Zo, que tem o tratamento na base de conhecimento onde evita os termos da lista negra. 
+Algumas bibliotecas de lista negra de código aberto são mantidas e são usadas por agentes de conversação virtual para evitar determinados diálogos, um exemplo disso é o [Wordfilter]( http://tinysubversions.com/2013/09/new-npm-package-for-bot-makers-wordfilter/).
+
+### Transparência
+
+Seja transparente sobre o fato de usar bots como parte de seu produto ou serviço.
+É mais provável que os usuários confiem em uma empresa transparente e próxima sobre o uso de tecnologia, e um bot é mais provável de ser confiável se os usuários entenderem que o bot está trabalhando para servir suas necessidades e é claro sobre têm suas limitações.
+Uma vez que os designers podem dotar seus bots com “personalidade” e capacidades de linguagem natural, é importante transmitir aos usuários que eles não estão interagindo com outra pessoa e sim com um bot. Existem várias opções de design e isso pode ser feito para que não prejudique a experiência do usuário.
+
+
+
+### Confiabilidade
+O desempenho dos sistemas bot baseados em IA pode variar desde o desenvolvimento até a implementação e o tempo que o bot é lançado para novos usuários e em novos contextos, é importante continuamente monitorar a confiabilidade.
+Seja transparente sobre a confiabilidade do bot, apresente resumos de desempenho do sistema ou de em um contexto específico.
+É importante sempre pedir feedback aos usuários referente as interações que ele teve, pois isso nos ajuda a entender melhor onde nosso bot está errando e ajusta-lo.
+
+### Privacidade
+Informe ao usuário que os dados serão coletados e como serão usados e obter consentimento do usuário e não colete mais dados pessoais do que o necessário.
+E aí vem um questionamento: “Temos uma IA está sendo utilizada para prevenir suicídios, mas até que ponto ela pode interferir nas decisões humanas?”
+
+### Igualdade
+
+A possibilidade de sistemas baseados em IA perpetuarem preconceitos sociais existentes ou introduzirem novos vieses, é uma das principais preocupações identificadas pela comunidade de IA relacionada à rápida implantação da IA.
+As equipes de desenvolvimento devem estar comprometidas em garantir que seus bots tratem todas as pessoas de forma justa.
+Lute pela diversidade entre sua equipe de desenvolvimento. Empregando uma equipe diversificada focada no design, o desenvolvimento e o teste da tecnologia de bots ajudarão a garantir que seu bot funcione de forma justa.
+Preste atenção na base de dados que está sendo utilizada no treinamento da IA ou do chatbot para verificar se ela não está enviesada.
+
+>“As equipes de desenvolvimento devem estar comprometidas em garantir que seus bots tratem todas as pessoas de forma justa.”
+( Microsoft, 2018, Bot Guidelines)
+
+
+Até uma próxima,
+
+AI Girl
+
+Escritora: [Laura Damaceno de Almeida] (https://www.linkedin.com/in/laura-damaceno/)
+
+Siga a comunidade nas redes sociais!!
+
+[LinkedIn](https://www.linkedin.com/company/ai-girls/)
+[Facebook](https://www.facebook.com/aigirlsbr/)
+[Instagram](https://www.instagram.com/aigirlsbrasil/)
+
+
+
+
+
+
+
+
+
+
