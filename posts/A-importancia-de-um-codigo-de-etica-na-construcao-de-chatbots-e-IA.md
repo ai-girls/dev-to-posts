@@ -46,11 +46,17 @@ E isso fez com que muitos desenvolvedores e empresas questionassem o aprendizado
 
 ## Mas como garantir a ética nos chatbots e inteligências artificiais?
 <img src ="https://media.giphy.com/media/NoCbUpxL1qzCw/giphy.gif">
-Eu fiz uma pesquisa sobre os principais códigos de ética que as grandes empresas de inteligência artificial fizeram, entre elas [Google](https://ai.google/principles/), [Microsoft](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Bot_Guidelines_Nov_2018.pdf) e [IBM](https://www.ibm.com/blogs/watson/2017/10/the-code-of-ethics-for-ai-and-chatbots-that-every-brand-should-follow/). E elenquei alguns princípios que elas têm em comum:
+
+Eu fiz uma pesquisa sobre os principais códigos de ética que as grandes empresas de inteligência artificial fizeram, entre elas [Google](https://ai.google/principles/), [Microsoft](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Bot_Guidelines_Nov_2018.pdf) e [IBM](https://www.ibm.com/blogs/watson/2017/10/the-code-of-ethics-for-ai-and-chatbots-that-every-brand-should-follow/), e elenquei alguns princípios que elas têm em comum:
+
 •	Prevenção
+
 •	Transparência
+
 •	Confiabilidade
+
 •	Privacidade
+
 •	Igualdade
 
 
