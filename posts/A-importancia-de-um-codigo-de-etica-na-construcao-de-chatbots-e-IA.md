@@ -105,7 +105,3 @@ Siga a comunidade nas redes sociais!!
 [Facebook](https://www.facebook.com/aigirlsbr/)
 
 [Instagram](https://www.instagram.com/aigirlsbrasil/)
-
-
-
-
