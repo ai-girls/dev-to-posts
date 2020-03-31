@@ -8,6 +8,10 @@ Você já deve ter assistido o filme "Exterminador do futuro" ou  "I, Robot", am
 
 Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmeros erros, preconceitos e uso indevido da tecnologia, como por exemplo um modelo usado em casos criminais norte Americanos para prever quais criminosos têm maior probabilidade de reincidência e assim os juízes tomam as decisões baseados nele, chamado [COMPAS](https://medium.com/thoughts-and-reflections/racial-bias-and-gender-bias-examples-in-ai-systems-7211e4c166a1) que demonstrou carregar viés racial ao fazer essa classificação, onde a cor da pele da pessoa acabava sendo um fator para ser considerado criminoso de alto risco.
 
+<img src='https://miro.medium.com/max/1400/0*cfX-3V_kHwT5o3_T'>
+
+> Alguns dos resultados enviesados trazidos pelo software Compas
+
 Outro caso, curioso foi o de dois pesquisadores da Universidade de Stanford que treinaram um algoritmo de [IA para adivinhar as orientações sexuais das pessoas com base em fotografias](https://www.bbc.com/portuguese/geral-41250020), o que poderia acabar expondo algumas pessoas, levando a outras atormentá-las com insultos homofóbicos, nunca considerando a validade dos dados usados para criar a tecnologia.
 Ou, por exemplo se os policiais usassem algo semelhante para procurar criminosos, os algoritmos tendenciosos poderiam tornar as pessoas de certos grupos étnicos cada vez mais vulneráveis a crimes que eles não cometeram.
 Os esforços para se lidar com estes desafios crescentes concentram-se frequentemente na importância do binômio “Ética+ IA”.
