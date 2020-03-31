@@ -75,9 +75,8 @@ Uma vez que os designers podem dotar seus bots com “personalidade” e capacid
 
 
 ### Confiabilidade
-O desempenho dos sistemas bot baseados em IA pode variar desde o desenvolvimento até a implementação e o tempo que o bot é lançado para novos usuários e em novos contextos, é importante continuamente monitorar a confiabilidade.
-Seja transparente sobre a confiabilidade do bot, apresente resumos de desempenho do sistema ou de em um contexto específico.
-É importante sempre pedir feedback aos usuários referente as interações que ele teve, pois isso nos ajuda a entender melhor onde nosso bot está errando e ajusta-lo.
+O desempenho dos sistemas baseados em IA podem variar desde o desenvolvimento até a implementação, além, do tempo que o bot é lançado para novos usuários e em novos contextos, é importante continuamente monitorar a confiabilidade. 
+Como fazer isso?! Seja transparente sobre a confiabilidade do bot, apresente resumos de desempenho do sistema ou de em um contexto específico. É importante sempre pedir feedbacks aos usuários referente as interações que ele teve, pois isso nos ajudará a entender melhor onde nosso bot está errando e ajustá-lo.
 
 ### Privacidade
 Informe ao usuário que os dados serão coletados e como serão usados. Não esqueça de obter consentimento do usuário e não colete mais dados pessoais do que o necessário!
@@ -106,7 +105,6 @@ Siga a comunidade nas redes sociais!!
 [Facebook](https://www.facebook.com/aigirlsbr/)
 
 [Instagram](https://www.instagram.com/aigirlsbrasil/)
-
 
 
 
