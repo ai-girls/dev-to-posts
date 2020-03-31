@@ -1,4 +1,4 @@
-# A importância de um código de ética na construção de chatbots e IA
+# A importância de um código de ética na construção de chatbots e em IA
 
 chatbot, ArtificialIntelligence, ethic 
 
