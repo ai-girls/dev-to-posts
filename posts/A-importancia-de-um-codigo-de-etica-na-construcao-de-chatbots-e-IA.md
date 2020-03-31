@@ -10,7 +10,7 @@ As restrições morais a que estamos sujeitos em nossas relações com sistemas 
 
 Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmeros erros, preconceitos e uso indevido da tecnologia, como por exemplo o reconhecimento facial utilizado pelas autoridades de Nova York que já penalizou inúmeras pessoas indevidamente, onde ela rotula as pessoas como criminosas ou não.
 
-Dois pesquisadores da Universidade de Stanford treinaram um algoritmo de IA para adivinhar as orientações sexuais das pessoas com base em fotografias. Eles descobriram que era mais preciso do que os humanos que tentaram a tarefa. Os cientistas dizem que seu objetivo era provar que era possível criar tal algoritmo.
+Outro caso, curioso foi o de dois pesquisadores da Universidade de Stanford que treinaram um algoritmo de IA para adivinhar as orientações sexuais das pessoas com base em fotografias. Eles descobriram que era mais preciso do que os humanos que tentaram a tarefa. Os cientistas dizem que seu objetivo era provar que era possível criar tal algoritmo. Porém .... (adicionar o paragrafo abaixo)
 Se os consumidores acessarem alguma vez, alguns podem visar pessoas em suas comunidades e atormentá-las com insultos homofóbicos, nunca considerando a validade dos dados usados para criar a tecnologia.
 Ou, se os policiais usassem algo semelhante para procurar criminosos, os algoritmos tendenciosos poderiam tornar as pessoas de certos grupos étnicos cada vez mais vulneráveis a crimes que eles não cometeram.
 Os esforços para se lidar com estes desafios crescentes concentram-se frequentemente na importância do binômio “Ética+ IA”.
@@ -106,7 +106,6 @@ Siga a comunidade nas redes sociais!!
 [Facebook](https://www.facebook.com/aigirlsbr/)
 
 [Instagram](https://www.instagram.com/aigirlsbrasil/)
-
 
 
 
