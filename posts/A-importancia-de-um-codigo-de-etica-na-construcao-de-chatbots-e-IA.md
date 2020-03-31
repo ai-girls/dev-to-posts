@@ -84,7 +84,7 @@ E aí vem um questionamento: “Temos uma IA está sendo utilizada para prevenir
 
 ### Igualdade
 
-A possibilidade de sistemas baseados em IA perpetuarem preconceitos sociais existentes ou introduzirem novos vieses, é uma das principais preocupações identificadas pela comunidade de IA relacionada à rápida implantação da IA.
+A possibilidade de sistemas baseados em IA perpetuarem preconceitos sociais existentes ou introduzirem novos vieses, é uma das principais preocupações identificadas pela comunidade de IA relacionada à rápida implantação dela.
 As equipes de desenvolvimento devem estar comprometidas em garantir que seus bots tratem todas as pessoas de forma justa.
 Lute pela diversidade entre sua equipe de desenvolvimento. Empregando uma equipe diversificada focada no design, o desenvolvimento e o teste da tecnologia de bots ajudarão a garantir que seu bot funcione de forma justa.
 Preste atenção na base de dados que está sendo utilizada no treinamento da IA ou do chatbot para verificar se ela não está enviesada.
@@ -106,7 +106,6 @@ Siga a comunidade nas redes sociais!!
 [Facebook](https://www.facebook.com/aigirlsbr/)
 
 [Instagram](https://www.instagram.com/aigirlsbrasil/)
-
 
 
 
