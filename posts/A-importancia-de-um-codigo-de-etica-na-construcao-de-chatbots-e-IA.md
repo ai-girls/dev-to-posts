@@ -80,8 +80,8 @@ Seja transparente sobre a confiabilidade do bot, apresente resumos de desempenho
 É importante sempre pedir feedback aos usuários referente as interações que ele teve, pois isso nos ajuda a entender melhor onde nosso bot está errando e ajusta-lo.
 
 ### Privacidade
-Informe ao usuário que os dados serão coletados e como serão usados e obter consentimento do usuário e não colete mais dados pessoais do que o necessário.
-E aí vem um questionamento: “Temos uma IA está sendo utilizada para prevenir suicídios, mas até que ponto ela pode interferir nas decisões humanas?”
+Informe ao usuário que os dados serão coletados e como serão usados. Não esqueça de obter consentimento do usuário e não colete mais dados pessoais do que o necessário!
+E aí vem um questionamento: “Temos uma IA que está sendo utilizada para prevenir suicídios, mas até que ponto ela pode interferir nas decisões humanas?”
 
 ### Igualdade
 
@@ -106,7 +106,6 @@ Siga a comunidade nas redes sociais!!
 [Facebook](https://www.facebook.com/aigirlsbr/)
 
 [Instagram](https://www.instagram.com/aigirlsbrasil/)
-
 
 
 
