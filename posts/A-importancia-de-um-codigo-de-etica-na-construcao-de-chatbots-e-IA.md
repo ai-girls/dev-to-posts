@@ -2,17 +2,14 @@
 
 chatbot, ArtificialIntelligence, ethic 
 
->“Podemos alterar, copiar, encerrar, apagar ou utilizar programas de computador tanto quanto nos agradar [...] 
-As restrições morais a que estamos sujeitos em nossas relações com sistemas contemporâneos de IA são todas baseadas em nossas responsabilidades para com outros seres”
- (Nick Bostrom - “The Ethics of Artificial Intelligence”)
+Você já deve ter assistido o filme "Exterminador do futuro" ou  "I, Robot", ambos são muitos famosos e falam sobre o extermínio da raça humana através dos robôs, e isso acarretou em medo e receio das pessoas em confiarem na Inteligência Artificial. Portanto entusiastas, desenvolvedores e empresas assumem a importância de um código de ética na construção dessas inteligências. 
 
 <img src="https://github.com/lauraDamacenoAlmeida/dev-to-posts/blob/master/posts/Captura%20de%20Tela%202020-03-30%20a%CC%80s%2015.58.51.png?raw=true">
 
-Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmeros erros, preconceitos e uso indevido da tecnologia, como por exemplo o reconhecimento facial utilizado pelas autoridades de Nova York que já penalizou inúmeras pessoas indevidamente, onde ela rotula as pessoas como criminosas ou não.
+Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmeros erros, preconceitos e uso indevido da tecnologia, como por exemplo um modelo usado em casos criminais norte Americanos para prever quais criminosos têm maior probabilidade de reincidência e assim os juízes tomam as decisões baseados nele, chamado [COMPAS](https://medium.com/thoughts-and-reflections/racial-bias-and-gender-bias-examples-in-ai-systems-7211e4c166a1) que demonstrou carregar viés racial ao fazer essa classificação, onde a cor da pele da pessoa acabava sendo um fator para ser considerado criminoso de alto risco.
 
-Outro caso, curioso foi o de dois pesquisadores da Universidade de Stanford que treinaram um algoritmo de IA para adivinhar as orientações sexuais das pessoas com base em fotografias. Eles descobriram que era mais preciso do que os humanos que tentaram a tarefa. Os cientistas dizem que seu objetivo era provar que era possível criar tal algoritmo. Porém .... (adicionar o paragrafo abaixo)
-Se os consumidores acessarem alguma vez, alguns podem visar pessoas em suas comunidades e atormentá-las com insultos homofóbicos, nunca considerando a validade dos dados usados para criar a tecnologia.
-Ou, se os policiais usassem algo semelhante para procurar criminosos, os algoritmos tendenciosos poderiam tornar as pessoas de certos grupos étnicos cada vez mais vulneráveis a crimes que eles não cometeram.
+Outro caso, curioso foi o de dois pesquisadores da Universidade de Stanford que treinaram um algoritmo de [IA para adivinhar as orientações sexuais das pessoas com base em fotografias](https://www.bbc.com/portuguese/geral-41250020), o que poderia acabar expondo algumas pessoas, levando a outras atormentá-las com insultos homofóbicos, nunca considerando a validade dos dados usados para criar a tecnologia.
+Ou, por exemplo se os policiais usassem algo semelhante para procurar criminosos, os algoritmos tendenciosos poderiam tornar as pessoas de certos grupos étnicos cada vez mais vulneráveis a crimes que eles não cometeram.
 Os esforços para se lidar com estes desafios crescentes concentram-se frequentemente na importância do binômio “Ética+ IA”.
 
 
