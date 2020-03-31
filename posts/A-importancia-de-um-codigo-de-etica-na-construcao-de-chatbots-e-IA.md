@@ -1,6 +1,6 @@
 # A importância de um código de ética na construção de chatbots e IA
 
-#chatbot, #ArtificialIntelligence, #ethic 
+chatbot, ArtificialIntelligence, ethic 
 
 >“Podemos alterar, copiar, encerrar, apagar ou utilizar programas de computador tanto quanto nos agradar [...] 
 As restrições morais a que estamos sujeitos em nossas relações com sistemas contemporâneos de IA são todas baseadas em nossas responsabilidades para com outros seres”
@@ -106,7 +106,6 @@ Siga a comunidade nas redes sociais!!
 [Facebook](https://www.facebook.com/aigirlsbr/)
 
 [Instagram](https://www.instagram.com/aigirlsbrasil/)
-
 
 
 
