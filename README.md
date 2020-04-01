@@ -36,9 +36,10 @@ E depois abrir um Pull Request *(o que é um Pull Request? Veja [o nosso tutoria
 ## Está perdida? Temos alguns tutoriais!
 
 1. [Fork](tutorial/fork.m)
-2. [Fazer upload de arquivo](tutorial/upload-arquivo.md)
-3. [Editar arquivo](tutorial/editar-arquivo.md)
-4. [Pull Request](tutorial/pull-request.md)
+2. [Escrevendo um post](tutorial/escrevendo-post.md)
+3. [Fazer upload de arquivo](tutorial/upload-arquivo.md)
+4. [Editar/Remover arquivo](tutorial/editar-arquivo.md)
+5. [Pull Request](tutorial/pull-request.md)
 
 > Se você quiser mais algum tutorial, abra uma [issue](https://github.com/ai-girls/dev-to-posts/issues). Nós conte suas dificuldades e sugestões. 
 
