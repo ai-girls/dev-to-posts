@@ -4,8 +4,6 @@ chatbot, ArtificialIntelligence, ethic
 
 Você já deve ter assistido o filme "Exterminador do futuro" ou  "I, Robot", ambos são muitos famosos e falam sobre o extermínio da raça humana através dos robôs, e isso acarretou em medo e receio das pessoas em confiarem na Inteligência Artificial. Portanto entusiastas, desenvolvedores e empresas assumem a importância de um código de ética na construção dessas inteligências. 
 
-<img src="https://github.com/lauraDamacenoAlmeida/dev-to-posts/blob/master/posts/Captura%20de%20Tela%202020-03-30%20a%CC%80s%2015.58.51.png?raw=true">
-
 Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmeros erros, preconceitos e uso indevido da tecnologia, como por exemplo um modelo usado em casos criminais norte Americanos para prever quais criminosos têm maior probabilidade de reincidência e assim os juízes tomam as decisões baseados nele, chamado [COMPAS](https://medium.com/thoughts-and-reflections/racial-bias-and-gender-bias-examples-in-ai-systems-7211e4c166a1) que demonstrou carregar viés racial ao fazer essa classificação, onde a cor da pele da pessoa acabava sendo um fator para ser considerado criminoso de alto risco.
 
 <img src='https://miro.medium.com/max/1400/0*cfX-3V_kHwT5o3_T'>
@@ -39,7 +37,7 @@ Aprendizado não supervisionado: O bot é educado por seus usuários e não pelo
 Se você quiser saber mais a fundo sobre esses tipos de aprendizados, [clique aqui.]( https://dev.to/aigirlsbr/afinal-o-que-e-machine-learning-ih5)
 
 ## Tay e o aprendizado não supervisionado
-<img src="https://github.com/lauraDamacenoAlmeida/dev-to-posts/blob/master/posts/Captura%20de%20Tela%202020-03-30%20a%CC%80s%2015.58.36.png?raw=true">
+<img src="https://img.ibxk.com.br/2016/03/24/24153546136850.jpg?w=1120&h=420&mode=crop&scale=both">
 
 A Tay foi um chatbot criado pela Microsoft em março de 2016, onde ela interagia e aprendia com os tweets dos usuários na rede social. E sem o tratamento correto na base de aprendizado, ela acabou em menos de 24 horas se tornando homofóbica, racista e tudo mais.
 E isso fez com que muitos desenvolvedores e empresas questionassem o aprendizado 100% não supervisionado, e como alternativa o aprendizado semi-supervisionado, onde teríamos um tratamento prévio dos dados que serão aprendidos pelo bot, por exemplo no caso da Tay, identificar palavrões, palavras homofóbicas, racistas e retirassem elas da base de conhecimento.
