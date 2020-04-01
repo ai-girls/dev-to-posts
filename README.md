@@ -41,6 +41,8 @@ E depois abrir um Pull Request *(o que é um Pull Request? Veja [o nosso tutoria
 4. [Editar/Remover arquivo](tutorial/editar-arquivo.md)
 5. [Pull Request](tutorial/pull-request.md)
 
+* [Boas práticas de um commit](tutorial/boas-praticas-commit.md)
+
 > Se você quiser mais algum tutorial, abra uma [issue](https://github.com/ai-girls/dev-to-posts/issues). Nós conte suas dificuldades e sugestões. 
 
 ## Aceitamos contribuição
