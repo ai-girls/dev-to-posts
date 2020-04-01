@@ -21,3 +21,7 @@ Nessa fase, você pode escolher se deseja realizar o commit na branch atual (a b
 > Lembre-se das [boas práticas de um commit](tutoriais/boas-praticas-commit.md).
 
 ![passo-3-upload](images/fazendo-upload-4.jpg)
+
+## E depois?
+
+Se você quiser editar o arquivo que você enviou para o github, ou remover o arquivo. Der uma olhada no nosso tutorial [Editar Arquivo](editar-arquivo.md)
