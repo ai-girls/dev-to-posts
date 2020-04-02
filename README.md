@@ -28,7 +28,7 @@ Você precisará dar Fork *(o que é um fork? Veja [o nosso tutorial](tutorial/f
 
 `meu-titulo.md`
 
-E depois abrir um Pull Request *(o que é um Pull Request? Veja [o nosso tutorial](tutorial/pull-request.md))* que será análisado. Após um review do conteúdo, ele será aprovado e mergeado nesse repositório e o conteúdo será postado no nosso blog.
+E depois abrir um Pull Request *(o que é um Pull Request? Veja [o nosso tutorial](tutorial/pull-request.md))* que será análisado. Após um review do conteúdo, ele poderá ser aprovado e mergeado nesse repositório e o conteúdo será postado no nosso blog, caso ele não for aprovado, iremos colocar algumas sugestões de alterações no seu Pull Request.
 
 
 > Não esqueça de olhar os posts antigos no [blog](dev.to/aigirlsbr) e no repositório, para que não tenhamos artigos repetidos!! :smile:
