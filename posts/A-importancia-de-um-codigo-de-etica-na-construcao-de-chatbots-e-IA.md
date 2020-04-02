@@ -12,7 +12,7 @@ Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmer
 
 Outro caso, curioso foi o de dois pesquisadores da Universidade de Stanford que treinaram um algoritmo de [IA para adivinhar as orientações sexuais das pessoas com base em fotografias](https://www.bbc.com/portuguese/geral-41250020), o que poderia acabar expondo algumas pessoas, levando a outras atormentá-las com insultos homofóbicos, nunca considerando a validade dos dados usados para criar a tecnologia.
 Ou, por exemplo se os policiais usassem algo semelhante para procurar criminosos, os algoritmos tendenciosos poderiam tornar as pessoas de certos grupos étnicos cada vez mais vulneráveis a crimes que eles não cometeram.
-Os esforços para se lidar com estes desafios crescentes concentram-se frequentemente na importância do binômio “Ética+ IA”.
+Os esforços para se lidar com estes desafios crescentes concentram-se frequentemente na importância do binômio **“Ética+ IA”**.
 
 
 >Então como nós desenvolvedoras e entusiastas poderíamos construir inteligências que atingem seus objetivos e impactam a sociedade de uma maneira saudável?
