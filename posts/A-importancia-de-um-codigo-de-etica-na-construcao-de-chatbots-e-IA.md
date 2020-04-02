@@ -22,18 +22,18 @@ Os esforços para se lidar com estes desafios crescentes concentram-se frequente
 Existem 3 tipos de aprendizado de máquina **supervisionado**, **não supervisionado** e **por reforço**. Neste post como estamos falando mais sobre chatbots vamos falar sobre o **supervisionado** e **não supervisionado**.
 
 #### Supervisionado
-Nós desenvolvedores temos controle sobre o que o bot diz, criando respostas em vez de permitir que os usuários o ensinem, ou seja nós temos um poder maior sobre o que nosso bot vai aprender.
+Nós desenvolvedores temos controle sobre o que o bot diz, criando respostas em vez de permitir que os usuários o ensinem, ou seja nós temos um poder maior sobre o que nosso bot vai "aprender".
 
-     * Vantagens: Você sabe exatamente como ele vai responder e o bot não pode ser corrompido, a menos que você treine ele com dados corrompidos.
+* Vantagens: Você sabe exatamente como ele vai responder e o bot não pode ser corrompido, a menos que você treine ele com dados corrompidos.
 
-•	Desvantagens: É mais demorado e criar um bot convincente leva muito tempo.
+* Desvantagens: É mais demorado e criar um bot convincente leva muito tempo.
 
 #### Aprendizado não supervisionado
 O bot é educado por seus usuários e não pelo desenvolvedor.
 
-•	Vantagens: Os usuários fazem o trabalho de treinar e ensinar o bot e você não precisa se preocupar em gastar tempo atualizando-o.
+* Vantagens: Os usuários fazem o trabalho de treinar e ensinar o bot e você não precisa se preocupar em gastar tempo atualizando-o.
 
-•	Desvantagens: O seu bot vai desenvolver uma personalidade inconsistente e você pode não ter conhecimento do que está sendo ensinado. Na pior das hipóteses, ele se transforma em um software desagradável, racista, sexista e homofóbico.
+* Desvantagens: O seu bot vai desenvolver uma personalidade inconsistente e você pode não ter conhecimento do que está sendo ensinado. Na pior das hipóteses, ele se transforma em um software desagradável, racista, sexista e homofóbico.
 
 
 Se você quiser saber mais a fundo sobre esses tipos de aprendizados, [clique aqui.]( https://dev.to/aigirlsbr/afinal-o-que-e-machine-learning-ih5)
