@@ -24,7 +24,7 @@ Existem 3 tipos de aprendizado de máquina **supervisionado**, **não supervisio
 #### Supervisionado
 Nós desenvolvedores temos controle sobre o que o bot diz, criando respostas em vez de permitir que os usuários o ensinem, ou seja nós temos um poder maior sobre o que nosso bot vai aprender.
 
-•	Vantagens: Você sabe exatamente como ele vai responder e o bot não pode ser corrompido, a menos que você treine ele com dados corrompidos.
+     * Vantagens: Você sabe exatamente como ele vai responder e o bot não pode ser corrompido, a menos que você treine ele com dados corrompidos.
 
 •	Desvantagens: É mais demorado e criar um bot convincente leva muito tempo.
 
