@@ -10,7 +10,7 @@ Antes de escrever o seu post, você vai precisar criar o arquivo. Para criar ess
 
 ## Editando o arquivo
 
-O GitHUb te levará para uma nova página (após a etapa anterior), onde você fornecerá o nome do arquivo (**item em destaque 2**) e não se esqueça de colocar `.md` como a extensão dele. Você pode mudar do editor de texto, para o preview do seu arquivo no **item em destaque 3**. 
+O Github te levará para uma nova página (após a etapa anterior), onde você fornecerá o nome do arquivo (**item em destaque 2**) e não se esqueça de colocar `.md` como a extensão dele. Você pode mudar do editor de texto, para o preview do seu arquivo no **item em destaque 3**. 
 
 > Se você quiser criar uma pasta para inserir o arquivo, você pode fazer agora nesse momento. No campo `nome` (**item em destaque 2**), insira: `nome-da-sua-pasta/nome-do-arquivo.md`
 
