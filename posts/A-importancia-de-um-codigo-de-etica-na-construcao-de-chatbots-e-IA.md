@@ -64,7 +64,7 @@ Eu fiz uma pesquisa sobre os principais códigos de ética que as grandes empres
 ### Prevenção
 Muitas empresas não pensam em prevenção de abusos por parte dos usuários para o chatbot, por exemplo: reconhecer palavrões, ameaças de morte ou até racismo.
 Depois do acontecimento com a Tay, a Microsoft logo tirou-a do ar e criou um novo chatbot a Zo, que tem o tratamento na base de conhecimento onde evita os termos da lista negra. 
-Algumas bibliotecas de lista negra de código aberto são mantidas e são usadas por agentes de conversação virtual para evitar determinados diálogos, um exemplo disso é o [Wordfilter]( http://tinysubversions.com/2013/09/new-npm-package-for-bot-makers-wordfilter/).
+Algumas bibliotecas de lista negra de código aberto são mantidas e usadas por agentes de conversação virtual para evitar determinados diálogos, um exemplo disso é o [Wordfilter]( http://tinysubversions.com/2013/09/new-npm-package-for-bot-makers-wordfilter/).
 
 ### Transparência
 
