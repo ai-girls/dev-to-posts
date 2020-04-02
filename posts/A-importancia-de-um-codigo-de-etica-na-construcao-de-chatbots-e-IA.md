@@ -69,7 +69,7 @@ Algumas bibliotecas de lista negra de código aberto são mantidas e são usadas
 ### Transparência
 
 Seja transparente sobre o fato de usar bots como parte de seu produto ou serviço.
-É mais provável que os usuários confiem em uma empresa transparente e próxima sobre o uso de tecnologia, e um bot é mais provável de ser confiável se os usuários entenderem que o bot está trabalhando para servir suas necessidades e é claro sobre têm suas limitações.
+É mais provável que os usuários confiem em uma empresa transparente sobre o uso de tecnologia. Um bot é mais provável de ser confiável se os usuários entenderem que o bot está trabalhando para servir suas necessidades, além de, deixar claro sobre suas limitações.
 Uma vez que os designers podem dotar seus bots com “personalidade” e capacidades de linguagem natural, é importante transmitir aos usuários que eles não estão interagindo com outra pessoa e sim com um bot. Existem várias opções de design e isso pode ser feito para que não prejudique a experiência do usuário.
 
 
