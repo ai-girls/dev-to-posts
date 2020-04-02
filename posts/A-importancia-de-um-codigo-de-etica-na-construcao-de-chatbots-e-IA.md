@@ -4,7 +4,7 @@ chatbot, ArtificialIntelligence, ethic
 
 Você já deve ter assistido o filme "Exterminador do futuro" ou  "I, Robot", ambos são muitos famosos e falam sobre o extermínio da raça humana através dos robôs, e isso acarretou em medo e receio das pessoas em confiarem na Inteligência Artificial. Portanto entusiastas, desenvolvedores e empresas assumem a importância de um código de ética na construção dessas inteligências. 
 
-Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmeros erros, preconceitos e uso indevido da tecnologia, como por exemplo um modelo usado em casos criminais norte Americanos para prever quais criminosos têm maior probabilidade de reincidência e assim os juízes tomam as decisões baseados nele, chamado [COMPAS](https://medium.com/thoughts-and-reflections/racial-bias-and-gender-bias-examples-in-ai-systems-7211e4c166a1) que demonstrou carregar viés racial ao fazer essa classificação, onde a cor da pele da pessoa acabava sendo um fator para ser considerado criminoso de alto risco.
+Ao longo dos últimos anos, muitos investigadores, ativista expuseram os inúmeros erros, preconceitos e uso indevido da tecnologia, como por exemplo, um modelo usado em casos criminais Norte Americanos para prever quais criminosos têm maior probabilidade de reincidência e com isso os juízes tomam as decisões baseadas nele. Esse sistema foi chamado de [COMPAS](https://medium.com/thoughts-and-reflections/racial-bias-and-gender-bias-examples-in-ai-systems-7211e4c166a1) e demonstrou carregar viés racial ao fazer as suas classificações, onde a cor da pele da pessoa acabava sendo um fator para ser considerado criminoso de alto risco.
 
 <img src='https://miro.medium.com/max/1400/0*cfX-3V_kHwT5o3_T'>
 
