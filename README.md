@@ -35,7 +35,7 @@ E depois abrir um Pull Request *(o que é um Pull Request? Veja [o nosso tutoria
 
 ## Está perdida? Temos alguns tutoriais!
 
-1. [Fork](tutorial/fork.m)
+1. [Fazer fork](tutorial/fork.m)
 2. [Escrevendo um post](tutorial/escrevendo-post.md)
 3. [Fazer upload de arquivo](tutorial/upload-arquivo.md)
 4. [Editar/Remover arquivo](tutorial/editar-arquivo.md)
