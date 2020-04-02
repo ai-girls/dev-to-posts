@@ -21,13 +21,15 @@ Os esforços para se lidar com estes desafios crescentes concentram-se frequente
 
 Existem 3 tipos de aprendizado de máquina Supervisionado, não supervisionado e por reforço. Neste blog como estamos falando mais sobre chatbots vamos falar sobre o supervisionado e não supervisionado.
 
-Supervisionado: Nós desenvolvedores temos controle sobre o que o bot diz, criando respostas em vez de permitir que os usuários o ensinem, ou seja nós temos um poder maior sobre o que nosso bot vai aprender.
+#### Supervisionado
+Nós desenvolvedores temos controle sobre o que o bot diz, criando respostas em vez de permitir que os usuários o ensinem, ou seja nós temos um poder maior sobre o que nosso bot vai aprender.
 
 •	Vantagens: Você sabe exatamente como ele vai responder e o bot não pode ser corrompido, a menos que você treine ele com dados corrompidos.
 
 •	Desvantagens: É mais demorado e criar um bot convincente leva muito tempo.
 
-Aprendizado não supervisionado: O bot é educado por seus usuários e não pelo desenvolvedor.
+#### Aprendizado não supervisionado
+O bot é educado por seus usuários e não pelo desenvolvedor.
 
 •	Vantagens: Os usuários fazem o trabalho de treinar e ensinar o bot e você não precisa se preocupar em gastar tempo atualizando-o.
 
