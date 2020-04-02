@@ -41,7 +41,7 @@ Se você quiser saber mais a fundo sobre esses tipos de aprendizados, [clique aq
 ## Tay e o aprendizado não supervisionado
 <img src="https://img.ibxk.com.br/2016/03/24/24153546136850.jpg?w=1120&h=420&mode=crop&scale=both">
 
-A Tay foi um chatbot criado pela Microsoft em março de 2016, onde ela interagia e aprendia com os tweets dos usuários na rede social. E sem o tratamento correto na base de aprendizado, ela acabou em menos de 24 horas se tornando homofóbica, racista e tudo mais.
+A [Tay](https://www.tecmundo.com.br/inteligencia-artificial/102782-tay-twitter-conseguiu-corromper-ia-microsoft-24-horas.htm) foi um chatbot criado pela Microsoft em março de 2016, onde ela interagia e aprendia com os tweets dos usuários na rede social. E sem o tratamento correto na base de aprendizado, ela acabou em menos de 24 horas se tornando homofóbica, racista e tudo mais.
 E isso fez com que muitos desenvolvedores e empresas questionassem o aprendizado 100% não supervisionado. Surgindo como alternativa o aprendizado semi-supervisionado, onde teríamos um tratamento prévio dos dados que serão aprendidos pelo bot. Por exemplo no caso da Tay seria introduzido uma etapa de, identificar palavrões, palavras homofóbicas, racistas, às retirando da base de conhecimento.
 
 
