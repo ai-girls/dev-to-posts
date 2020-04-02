@@ -39,7 +39,7 @@ E depois abrir um Pull Request *(o que é um Pull Request? Veja [o nosso tutoria
 2. [Escrevendo um post](tutorial/escrevendo-post.md)
 3. [Fazer upload de arquivo](tutorial/upload-arquivo.md)
 4. [Editar/Remover arquivo](tutorial/editar-arquivo.md)
-5. [Pull Request](tutorial/pull-request.md)
+5. [Fazer um Pull Request](tutorial/pull-request.md)
 
 * [Boas práticas de um commit](tutorial/boas-praticas-commit.md)
 
