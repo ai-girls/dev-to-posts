@@ -19,7 +19,7 @@ Os esforços para se lidar com estes desafios crescentes concentram-se frequente
 
 ## Como as máquinas aprendem?
 
-Existem 3 tipos de aprendizado de máquina Supervisionado, não supervisionado e por reforço. Neste blog como estamos falando mais sobre chatbots vamos falar sobre o supervisionado e não supervisionado.
+Existem 3 tipos de aprendizado de máquina **supervisionado**, **não supervisionado** e **por reforço**. Neste post como estamos falando mais sobre chatbots vamos falar sobre o **supervisionado** e **não supervisionado**.
 
 #### Supervisionado
 Nós desenvolvedores temos controle sobre o que o bot diz, criando respostas em vez de permitir que os usuários o ensinem, ou seja nós temos um poder maior sobre o que nosso bot vai aprender.
