@@ -10,7 +10,7 @@ Para saber mais veja esse [link](https://help.github.com/en/github/collaborating
 
 > Vamos lá! O que eu vou explicar aqui, serve para qualquer repositório que esteja no Github
 
-Para forkar um repositório, vamos cliar nesse botão **Fork** em destaque na imagem:
+Para "forkar" um repositório, vamos cliar nesse botão **Fork** em destaque na imagem:
 
 ![como-fazer-um-fork](images/forkando-projeto.jpg)
 
