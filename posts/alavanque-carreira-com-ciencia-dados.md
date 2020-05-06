@@ -121,6 +121,7 @@ Alguns materiais interessantes para iniciar no tema estão indicados abaixo. Tod
 
 Bons estudos e sucesso!
 
+*Artigo publicado originalmente em 10/03/2020 no [LinkedIn da autora](https://www.linkedin.com/pulse/alavanque-sua-carreira-com-aci%C3%AAncia-de-dados-e-arte-fazer-ferrarini/)*
 
 Escritora: [Íris Ferrarini](https://www.linkedin.com/in/irisferrarini)
 
