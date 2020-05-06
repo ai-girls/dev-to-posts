@@ -109,17 +109,17 @@ Assim, convido você a incluir a **alfabetização em dados** na sua trilha de d
 
 Alguns materiais interessantes para iniciar no tema estão indicados abaixo. Todos eles me ajudaram de alguma forma.
 
-Para começar:
+**Para começar:**
 * Site do [Radar Social Good](http://socialgoodbrasil.org.br/radar/), que disponibiliza conteúdos sobre novas tendências em transformação social por meio do uso de dados e tecnologias;
 * Plataforma de cursos introdutórios e gratuitos sobre ciência de dados na [Data Science Academy](https://www.datascienceacademy.com.br/pages/cursos-gratuitos-1).
 
-Se quiser ir um pouco além:
+**Se quiser ir um pouco além:**
 * Acervo de [Podcasts do Pizza de Dados](https://pizzadedados.com/), que traz conversas sobre a profissão de cientista de dados;
 * Perfil do professor de estatística [Thiago Marques no LinkedIn](https://www.linkedin.com/in/thiagoestatidados/);
 * Canal [EstatiDados no Youtube](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw/about); e,
 * Curso gratuito de introdução à lógica de programação da [Soft Blue](https://www.softblue.com.br/site/curso/id/6/CURSO+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06).
 
-Vamos juntos? Bons estudos e sucesso!
+Bons estudos e sucesso!
 
 
 Escritora: [Íris Ferrarini](https://www.linkedin.com/in/irisferrarini)
