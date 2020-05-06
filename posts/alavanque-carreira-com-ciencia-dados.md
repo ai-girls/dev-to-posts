@@ -1,6 +1,7 @@
 # Alavanque sua carreira com a Ciência de Dados e a arte de fazer perguntas
 <img src="https://media-exp1.licdn.com/dms/image/C4D12AQGEccgpoy35tQ/article-cover_image-shrink_720_1280/0?e=1594252800&v=beta&t=Pbje2tM0BLbdrnla59PW8P6aXTnSRQd_SBTtc9zPjnE">
-Crédito da imagem: Pexels
+
+*Crédito da imagem: Pexels*
 
 
 Ciencia De Dados, Data Science, Carreira
