@@ -4,7 +4,7 @@
 *Crédito da imagem: Pexels*
 
 
-Ciencia De Dados, Data Science, Carreira
+Ciência de Dados, Carreira, Fluência / Alfabetização de Dados
 
 
 > Entenda por que ser fluente em dados será um diferencial na sua carreira, independentemente da sua área de atuação. 
