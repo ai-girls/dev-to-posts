@@ -1,5 +1,5 @@
 # Alavanque sua carreira com a Ciência de Dados e a arte de fazer perguntas
-<img src="https://media-exp1.licdn.com/dms/image/C4D12AQGEccgpoy35tQ/article-cover_image-shrink_720_1280/0?e=1594252800&v=beta&t=Pbje2tM0BLbdrnla59PW8P6aXTnSRQd_SBTtc9zPjnE">
+<img src="https://media-exp1.licdn.com/dms/image/C4D12AQEaz00RVHIC5w/article-inline_image-shrink_1500_2232/0?e=1594252800&v=beta&t=C2DzV-s0f2kklW9UafNCZoboNVo5taRstFrCma0lOzUE">
 
 *Crédito da imagem: Pexels*
 
@@ -10,22 +10,23 @@ Ciencia De Dados, Data Science, Carreira
 > Entenda por que ser fluente em dados será um diferencial na sua carreira, independentemente da sua área de atuação. 
 
 
-Há quem a chame pelo nome oficial de **Ciência de Dados** (*Data Science*, do inglês) ou quem prefira reforçar as palavras em voga relacionadas a essa disciplina: big data, aprendizado de máquina (*machine learning*), inteligência artificial etc.
+Há quem a chame pelo nome oficial de **Ciência de Dados** (*Data Science*, do inglês) ou quem prefira reforçar as palavras em voga relacionadas a essa disciplina: *big data*, aprendizado de máquina (*machine learning*), inteligência artificial etc.
 
-Eu gosto de me referir a ela como **"a ciência e a arte de se fazer boas perguntas e encontrar respostas para subsidiar a tomada de decisão"**.
+Eu gosto de me referir a ela como **a ciência e a arte de se fazer boas perguntas e encontrar respostas para subsidiar a tomada de decisão**.
 
 Essa definição mais humana me ajudou a desmistificar que Ciência de Dados é um campo apenas para profissionais de tecnologia e Exatas. Serviu para eu, de Humanas, perceber que poderia sim ter um espaço nessa carreira tão interessante.
 
-Neste artigo, não pretendo convencê-lo(a) a se tornar um(a) cientista profissional, mas quero incentivá-lo(a) a buscar a "alfabetização em dados ou fluência em dados", independentemente de sua área de formação e atuação.
+Neste artigo, não pretendo convencê-lo(a) a se tornar um(a) cientista profissional, mas quero incentivá-lo(a) a buscar a **alfabetização em dados ou fluência em dados**, independentemente de sua área de formação e atuação.
 
-Para isso, compartilharei um pouco do que aprendi nos últimos dois anos, desde quando fiz uma movimentação e deixei a área de comunicação para assumir novos desafios.
+Para isso, compartilharei um pouco do que aprendi desde 2018, desde quando fiz uma movimentação e deixei a área de comunicação para assumir novos desafios.
 
 Abordarei neste artigo os seguintes pontos:
 
 1. A Ciência de Dados: O mundo de hoje produz tanto dado que uma nova ciência surgiu só para extrair valor deles;
 2. Por que ser fluente em dados será um diferencial na sua carreira;
 3. Dominar a arte de se fazer boas perguntas é uma habilidade essencial para profissionais do presente e do futuro; e,
-4 Aplique em sua vida o "lifelong learning" e planeje a sua a trilha de aprendizado em fluência de dados.
+4. Aplique em sua vida o "lifelong learning" e planeje a sua a trilha de aprendizado em fluência de dados.
+
 
 ## 1) A Ciência de Dados: O mundo de hoje produz tanto dado que uma nova ciência surgiu só para extrair valor deles
 
@@ -45,20 +46,23 @@ Os negócios que aprenderam a gerar valor a partir de dados brutos se destacam n
 
 Aqueles que ainda não incorporaram a tomada de decisão baseada em dados precisam se adaptar rapidamente a essa realidade. Quem não fizer isso agora terá que correr atrás do prejuízo, porque o mundo está exigindo essa habilidade das empresas e dos seus funcionários.
 
+
 ## 2) Por que ser fluente em dados será um diferencial na sua carreira?
+
 A tríade das disciplinas da Ciência de Dados exige uma ampla gama de competências. Em grandes empresas, esse conjunto de habilidades pode ser conquistado a partir de um time de programadores, estatísticos e analistas de negócio, que que se comunicam e se complementam. 
 
 É claro que cada profissional tem seus pontos fortes e será especialista em alguns pontos, mas para o trabalho fluir é importante que todos tenham referências comuns.
 
 Programadores e estatísticos precisam conhecer do negócio. Já o analista de negócio poderá ter, ao menos, noções básicas de programação e estatística, para melhor interagir com sua equipe. Esse é o mundo ideal.
 
-Se este mesmo analista de negócio com foco analítico atuar em pequena ou média organização, é provável que ele terá que elaborar e responder perguntas estratégicas ao negócio com uma pequena equipe ou sozinho. Se se ele tiver noções de programação e estatística, certamente alcançará melhores resultados e terá mais oportunidades profissionais.
+Se este mesmo analista de negócio com foco analítico atuar em pequena ou média organização, é provável que ele terá que elaborar e responder perguntas estratégicas ao negócio com uma pequena equipe ou sozinho. Se ele tiver noções de programação e estatística, certamente alcançará melhores resultados e terá mais oportunidades profissionais.
 
 Diante desse cenário, você pode escolher ser um cientista de dados e seguir uma carreira promissora que ocupa a [5ª posição entre as 15 profissões emergentes](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/emerging-jobs-report/Emerging_Jobs_Report_Brazil.pdf), segundo estudo do LinkedIn. 
 
 Você também pode não querer ser um cientista de dados, e não há nenhum problema nisso. Porém, saiba que, pelo menos, você precisará estar familiarizado com o tema.  O Fórum Econômico Mundial elencou as 10 habilidades profissionais mais importantes que toda empresa vai buscar em 2020. A primeira delas é a **alfabetização em dados ou fluência em dados**.
 
-### *"A alfabetização em dados – ou data literacy – é a habilidade de ler, entender, analisar e comunicar dados como informação útil. Ou seja, é a competência desenvolvida para adquirir melhor leitura e entendimento do universo dos dados", conforme o [relatório Tendências 2020 do Social Good Brasil](http://socialgoodbrasil.org.br/wp-content/uploads/2020/02/tendencias2020sgb.pdf?utm_campaign=1_posso_falar_-_duplicado&utm_medium=email&utm_source=RD+Station).*
+#### *"A alfabetização em dados – ou data literacy – é a habilidade de ler, entender, analisar e comunicar dados como informação útil. Ou seja, é a competência desenvolvida para adquirir melhor leitura e entendimento do universo dos dados", conforme o [relatório Tendências 2020 do Social Good Brasil](http://socialgoodbrasil.org.br/wp-content/uploads/2020/02/tendencias2020sgb.pdf?utm_campaign=1_posso_falar_-_duplicado&utm_medium=email&utm_source=RD+Station).*
+
 
 ## 3) Dominar a arte de se fazer boas perguntas é uma habilidade essencial para profissionais do presente e do futuro
 
@@ -72,7 +76,7 @@ O problema é que fazer boas perguntas não é uma tarefa trivial.
 
 Em texto no [Blog da IBM](https://www.ibm.com/blogs/digital-transformation/br-pt/nao-adianta-termos-bons-dados-se-nao-fizermos-boas-perguntas/), Carlos Demetrio traz uma discussão interessante sobre o tema, a partir de um caso real da Segunda Guerra Mundial. Estatísticos avaliaram as marcas de balas em aviões que voltaram de batalhas. O objetivo era definir em que regiões a estrutura dos aviões teria que ser reforçada, para melhorar sua segurança e desempenho.
 
-<img src="https://www.ibm.com/blogs/digital-transformation/br-pt/wp-content/uploads/sites/3/2019/07/0-768x321.png">
+<img src="http://www.ibm.com/blogs/digital-transformation/br-pt/nao-adianta-termos-bons-dados-se-nao-fizermos-boas-perguntas/">
 *Crédito da imagem:  Carlos Demetrio - copiado do Blog da IBM*
                                                                                                                  
 Como as asas foram as partes mais atingidas, uma avaliação precipitada poderia concluir que seria preciso reforçá-las.
@@ -82,6 +86,7 @@ Contudo, uma análise mais profunda fez com que a recomendação oficial fosse b
 A explicação é que somente os aviões que não foram atingidos nessas áreas sensíveis retornaram para as suas bases e puderam ser analisados. Os demais foram perdidos em combate.
 
 Assim, perguntar por que alguns aviões voltaram e outros não seria uma dúvida inicial mais estratégica que focar apenas no padrão dos danos daquelas que retornaram.
+
 
 ## 4) Aplique em sua vida o ***lifelong learning*** e planeje a sua a trilha de aprendizado em fluência de dados
 
@@ -111,12 +116,12 @@ Se quiser ir um pouco além:
 * Acervo de [Podcasts do Pizza de Dados](https://pizzadedados.com/), que traz conversas sobre a profissão de cientista de dados;
 * Perfil do professor de estatística [Thiago Marques no LinkedIn](https://www.linkedin.com/in/thiagoestatidados/);
 * Canal [EstatiDados no Youtube](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw/about); e,
-* Curso gratuito de introdução à lógica de programação da [Soft Blue https://www.softblue.com.br/site/curso/id/6/CURSO+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06).
+* Curso gratuito de introdução à lógica de programação da [Soft Blue](https://www.softblue.com.br/site/curso/id/6/CURSO+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06).
 
-Bons estudos e sucesso!
+Vamos juntos? Bons estudos e sucesso!
 
 
-Escritora: [Íris Ferrarini](https://www.linkedin.com/irisferrarini)
+Escritora: [Íris Ferrarini](https://www.linkedin.com/in/irisferrarini)
 
 Siga a comunidade nas redes sociais!!
 
