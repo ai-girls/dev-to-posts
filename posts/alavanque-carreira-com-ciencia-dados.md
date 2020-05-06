@@ -16,7 +16,7 @@ Eu gosto de me referir a ela como **a ciência e a arte de se fazer boas pergunt
 
 Essa definição mais humana me ajudou a desmistificar que Ciência de Dados é um campo apenas para profissionais de tecnologia e Exatas. Serviu para eu, de Humanas, perceber que poderia sim ter um espaço nessa carreira tão interessante.
 
-Neste artigo, não pretendo convencê-lo(a) a se tornar um(a) cientista profissional, mas quero incentivá-lo(a) a buscar a **alfabetização em dados ou fluência em dados**, independentemente de sua área de formação e atuação.
+Neste artigo, não pretendo convencê-la necessariamente a se tornar uma cientista profissional, mas quero incentivá-la a buscar a **alfabetização em dados ou fluência em dados**, independentemente de sua área de formação e atuação.
 
 Para isso, compartilharei um pouco do que aprendi desde 2018, desde quando fiz uma movimentação e deixei a área de comunicação para assumir novos desafios.
 
