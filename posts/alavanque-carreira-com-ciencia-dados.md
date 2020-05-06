@@ -1,5 +1,5 @@
 # Alavanque sua carreira com a Ciência de Dados e a arte de fazer perguntas
-<img src="https://media-exp1.licdn.com/dms/image/C4D12AQEaz00RVHIC5w/article-inline_image-shrink_1500_2232/0?e=1594252800&v=beta&t=C2DzV-s0f2kklW9UafNCZoboNVo5taRstFrCma0lOzUE">
+<img src="https://media-exp1.licdn.com/dms/image/C4D12AQEaz00RVHIC5w/article-inline_image-shrink_1500_2232/0?e=1594252800&v=beta&t=C2DzV-s0f2kklW9UafNCZoboNVo5taRstFrCma0lOzU">
 
 *Crédito da imagem: Pexels*
 
@@ -76,7 +76,7 @@ O problema é que fazer boas perguntas não é uma tarefa trivial.
 
 Em texto no [Blog da IBM](https://www.ibm.com/blogs/digital-transformation/br-pt/nao-adianta-termos-bons-dados-se-nao-fizermos-boas-perguntas/), Carlos Demetrio traz uma discussão interessante sobre o tema, a partir de um caso real da Segunda Guerra Mundial. Estatísticos avaliaram as marcas de balas em aviões que voltaram de batalhas. O objetivo era definir em que regiões a estrutura dos aviões teria que ser reforçada, para melhorar sua segurança e desempenho.
 
-<img src="http://www.ibm.com/blogs/digital-transformation/br-pt/nao-adianta-termos-bons-dados-se-nao-fizermos-boas-perguntas/">
+<img src="https://media-exp1.licdn.com/dms/image/C4D12AQFz2kDl_Z6I-g/article-inline_image-shrink_1000_1488/0?e=1594252800&v=beta&t=S8clbYSdsCJEPWe3OhYMev3-EyKczb4XRZZ9mtVDNCk">
 *Crédito da imagem:  Carlos Demetrio - copiado do Blog da IBM*
                                                                                                                  
 Como as asas foram as partes mais atingidas, uma avaliação precipitada poderia concluir que seria preciso reforçá-las.
