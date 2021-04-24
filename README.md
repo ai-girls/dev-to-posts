@@ -4,7 +4,7 @@
 
 Repositório com as postagens que estão no dev.to/aigirls
 
-Se você tem vontade de escrever algum tutórial ou artigos em geral na área de Inteligência Artificial, mas não sabia onde colocar. Agora nós temos um local para isso! Se você quiser fazer parte desse espaço, sinta-se bem vinda :heart:
+Se você tem vontade de escrever algum tutorial ou artigos em geral na área de Inteligência Artificial, mas não sabia onde colocar. Agora nós temos um local para isso! Se você quiser fazer parte desse espaço, sinta-se bem vinda :heart:
 No nosso blog compartilhamos assuntos que envolvem inteligência artificial e ciência de dados, e nele você pode escrever:
 
 * Sua opinião sobre alguma coisa, por exemplo: "A importância da lei LGPD". Ou escrever sobre os viés que temos na área de IA, como por exemplo: "Por que os chatbots tem vozes femininas?"
